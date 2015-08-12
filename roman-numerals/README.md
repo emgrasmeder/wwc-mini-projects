@@ -1,5 +1,8 @@
 # Roman Numerals Overview
 
+Converting integers to and from Roman numerals: 
+*Your task is to create a function that takes an integer `x` as input and produces as output a `string` that represents the number in roman numerals.*
+
 ## Overview
 Roman numerals are a representation of positive whole numbers using letters.
 In programming, we would say they represent positive integers as strings. 
