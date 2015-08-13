@@ -1,12 +1,17 @@
-# Converting Roman Numerals
-##### A Women Who Code DC Mini-Project
+# Women Who Code DC Mini Projects
+This repository hosts a set of code projects and solutions that are good practice for Python programmers. 
 
-## Overview
-Converting _integers_ to and from _Roman numerals_ is an appealing mini-project for coders of various skill levels, and has a wide range of possible implementations.
-By the end of this project, you will have produced a python _module_ (or possibly a _package_) with that is able to convert any positive _integer_ to the correct corresponding Roman numeral in the form of a _string_. 
+Each folder in the repository contains a description for itself.
+### Projects:
+##### In a vaguely suggested order
+1.  [Fizz Buzz](https://github.com/emmagras/wwc-mini-projects/tree/master/fizz-buzz)
+2.  [Factorial Calculator](https://github.com/emmagras/wwc-mini-projects/tree/master/factorial)
+1.  [Fibonacci Sequence](https://github.com/emmagras/wwc-mini-projects/tree/master/fibonacci)
+2.  [Roman Numeral Converter](https://github.com/emmagras/wwc-mini-projects/tree/master/roman-numerals)
 
-## GitHub / Intro to OSS
-### What is GitHub/OSS
+
+## GitHub / Intro to Open Source Software
+### What is GitHub?
 This very site, _GitHub_ is one of the tech industry staples. GitHub can be quite overwhelming, but we're only going to use a few of its features, so nothing will be too complicated.
 You're currently looking at the Read-Me for my GitHub _repository_. I (hi, I'm Emma Grasmeder), created this file (all the files in the _repository_) on my personal computer at home. It's all saved to a _local repository_ on my hard drive. (the folders on my computer look like: `home/emma/code-n-stuff/wwc/tutorials/roman-numerals/README.md`) Once the _local repository_ looked like anything worth sharing, I _pushed_ my _local repository_ to a _remote repository_, which is what GitHub hosts. At that point, this project became _open source software_.
 ### Getting Started with the Roman Numerals Project
