@@ -10,10 +10,10 @@ A factorial is defined as the product of a positive integer `x` and positive int
 - `0! = 1` by definition.
 
 ### Examples
-5! =  5* 4 * 3 * 2 * 1
-10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1
-1! = 1
-0! = 1
+- 5! =  5* 4 * 3 * 2 * 1
+- 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1
+- 1! = 1
+- 0! = 1
 
 ### Once you've solved it, here are some extra challenges:
 - Use recursive function calls
