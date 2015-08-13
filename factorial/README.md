@@ -4,8 +4,10 @@
 Write a function that returns the solution to N-factorial. 
 
 ### Definition
-A factorial is defined as the product of a positive integer `x` and positive integers less than `x`. `x-factorial` is written `x!` 
-`0!` is `1` by definition.
+A factorial is defined as the product of a positive integer `x` and positive integers less than `x`. 
+
+- `x-factorial` is written `x!` 
+- `0! = 1` by definition.
 
 ### Examples
 5! =  5* 4 * 3 * 2 * 1
