@@ -4,10 +4,16 @@ This repository hosts a set of code projects and solutions that are good practic
 Each folder in the repository contains a description for itself.
 ### Projects:
 ##### In a vaguely suggested order
-1.  [Fizz Buzz](https://github.com/emmagras/wwc-mini-projects/tree/master/fizz-buzz)
 2.  [Factorial Calculator](https://github.com/emmagras/wwc-mini-projects/tree/master/factorial)
 1.  [Fibonacci Sequence](https://github.com/emmagras/wwc-mini-projects/tree/master/fibonacci)
 2.  [Roman Numeral Converter](https://github.com/emmagras/wwc-mini-projects/tree/master/roman-numerals)
+
+### Adding Projects!
+The requirements for suggested projects or adding a suggested project to the repository are quite low. Below we have a list of projects that haven't been given their own folder complete with simple _README_ and and _example solution_:
+-  [Goldbach's Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
+-  [Fizz Buzz](https://github.com/emmagras/wwc-mini-projects/tree/master/fizz-buzz)
+
+Please feel encouraged to contribute!
 
 
 ## GitHub / Intro to Open Source Software
