@@ -11,7 +11,7 @@ Each folder in the repository contains a description for itself.
 ### Adding Projects!
 The requirements for suggested projects or adding a suggested project to the repository are quite low. Below we have a list of projects that haven't been given their own folder complete with simple _README_ and and _example solution_:
 -  [Goldbach's Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
--  [Fizz Buzz](https://github.com/emmagras/wwc-mini-projects/tree/master/fizz-buzz)
+-  [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz)
 
 Please feel encouraged to contribute!
 
