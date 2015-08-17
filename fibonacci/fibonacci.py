@@ -1,7 +1,7 @@
 # Edit this file in your text editor or IDE and run it from the command line
 
 def fib(x):
-    if x = 0:
+    if x == 0:
         return "Error: Fibonacci sequence is indexed starting with 1"
     elif x == 1:
         return 0
