@@ -7,6 +7,7 @@ Each folder in the repository contains a description for itself.
 2.  [Factorial Calculator](https://github.com/emmagras/wwc-mini-projects/tree/master/factorial)
 1.  [Fibonacci Sequence](https://github.com/emmagras/wwc-mini-projects/tree/master/fibonacci)
 2.  [Roman Numeral Converter](https://github.com/emmagras/wwc-mini-projects/tree/master/roman-numerals)
+3.  [Data Cleaning with Pandas](https://github.com/emmagras/wwc-mini-projects/tree/master/data-cleaning)
 
 ### Adding Projects!
 The requirements for suggested projects or adding a suggested project to the repository are quite low. Below we have a list of projects that haven't been given their own folder complete with simple _README_ and and _example solution_:
