@@ -1,5 +1,5 @@
 # Women Who Code DC Mini Projects
-This repository hosts a set of code projects and solutions that are good practice for Python programmers. 
+This repository hosts a set of code projects and solutions that will be good practice for beginning software developers. 
 
 Each folder in the repository contains a description for itself.
 ### Projects:
