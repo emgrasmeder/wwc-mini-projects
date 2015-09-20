@@ -4,6 +4,7 @@ I've provided you some other folders, which you should just ignore.
 The `sampleproject` folder above is taken directly from [the Python documentation](https://github.com/pypa/sampleproject) regarding project structure.
 To actually make/start making this package, bring up `Terminal`/`cmd` and start like this:
 From wherever you want to keep your python project:
+
 1. `$ mkdir sampleproject`
   1. That will result in the `sampleproject/` folder
 1. `$ cd sampleproject`
