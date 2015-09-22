@@ -11,10 +11,14 @@ def fact(x):
         return 6
     elif x == 4:
         return 24
+    # instead of using a million if, elif, else blocks, replace this code with something more elegant
+    # hint: 5! = 5 * 4 * 3 * 2 * 1 is the product of all the items the list [5,4,3,2,1]
+    # hint/easier assignment: can you get the sum of [1,2,3,4,5] without using the sum() function? 
 
 
-if __name__ == "__main__":
-    import math
-    for i in range(100):
-        assert fact(i) == math.factorial(i),\
-        "fact({}) != math.factorial({}) ==> {} != {}".format(i, i, fact(i), math.factorial(i))
+fact(0)
+fact(1)
+fact(2)
+fact(3)
+fact(4)
+fact(5)
